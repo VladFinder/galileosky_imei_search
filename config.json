@@ -1,0 +1,7 @@
+{
+    "imeiFile": "imei_list.txt",
+    "outputDir": "results",
+    "chunkSize": 25,
+    "username": "zyryanov.v",
+    "password": "GS_Zyryanov1"
+}
