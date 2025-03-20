@@ -30,7 +30,7 @@
    ```
 3. Установите зависимости:
    ```bash
-   npm install axios csv-writer
+   npm install axios & npm install axios fs & npm install axios json2csv & npm install axios csv-writer
    ```
 
 ## ⚙️ Настройка
