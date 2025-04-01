@@ -1,7 +1,7 @@
 {
-    "imeiFile": "imei_list.txt",
     "outputDir": "results",
-    "chunkSize": 25,
     "username": "ВАШ_ЛОГИН",
     "password": "ВАШ_ПАРОЛЬ"
+    "chunkSize": 100,
+    "requestDelay": 200
 }
